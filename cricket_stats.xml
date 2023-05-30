@@ -1,0 +1,74 @@
+<cricketStats>
+  <player>
+    <name>Virat Kohli</name>
+    <batting>
+      <matches>250</matches>
+      <innings>242</innings>
+      <runs>12169</runs>
+      <average>59.07</average>
+      <strikeRate>93.17</strikeRate>
+
+    </batting>
+    <bowling>
+      <matches>242</matches>
+      <innings>185</innings>
+      <wickets>4</wickets>
+      <average>166.25</average>
+      <economyRate>5.92</economyRate>
+
+    </bowling>
+  </player>
+
+  <player>
+    <name>MS Dhoni</name>
+    <batting>
+      <matches>350</matches>
+      <innings>297</innings>
+      <runs>10773</runs>
+      <average>50.57</average>
+      <strikeRate>87.56</strikeRate>
+
+    </batting>
+    <bowling>
+      <matches>317</matches>
+      <innings>268</innings>
+      <wickets>0</wickets>
+      <average>0.00</average>
+      <economyRate>0.00</economyRate>
+
+    </bowling>
+  </player>
+
+  <player>
+    <name>Joe Root</name>
+    <batting>
+      <matches>105</matches>
+      <innings>181</innings>
+      <runs>7824</runs>
+      <average>50.96</average>
+      <strikeRate>54.74</strikeRate>
+
+    </batting>
+    <bowling>
+      <matches>105</matches>
+      <innings>126</innings>
+      <wickets>30</wickets>
+      <average>53.60</average>
+      <economyRate>4.49</economyRate>
+
+    </bowling>
+  </player>
+
+
+
+  <player>
+    <name>Suraj Shinde Patil</name>
+    <batting>
+      <matches>100</matches>
+      <innings>100</innings>
+      <runs>100000</runs>
+      <average>100</average>
+      <strikeRate>250.56</strikeRate>
+    </batting>
+  </player>
+</cricketStats>
